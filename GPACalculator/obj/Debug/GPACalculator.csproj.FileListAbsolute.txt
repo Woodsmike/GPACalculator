@@ -1,0 +1,6 @@
+c:\users\mgwwl\documents\visual studio 2017\Projects\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe.config
+c:\users\mgwwl\documents\visual studio 2017\Projects\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe
+c:\users\mgwwl\documents\visual studio 2017\Projects\GPACalculator\GPACalculator\bin\Debug\GPACalculator.pdb
+c:\users\mgwwl\documents\visual studio 2017\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csprojResolveAssemblyReference.cache
+c:\users\mgwwl\documents\visual studio 2017\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.exe
+c:\users\mgwwl\documents\visual studio 2017\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.pdb
